@@ -1,5 +1,4 @@
-# SkillCraft Technology Internship - Task 2
-
+# Superstore Sales Data Cleaning & Preprocessing
 ## 📌 Objective
 Perform data cleaning and preprocessing on the Superstore Sales dataset using Python and Pandas.
 
